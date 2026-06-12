@@ -1,7 +1,9 @@
 {
     "pack": {
         "description": "Sky and weather modified for realism based on the original version.\nBy KSSJW",
-        "min_format": 75,
-        "max_format": 999
+        "pack_format": 69,
+        "supported_formats": [34, 69],
+        "min_format": 34,
+        "max_format": 69
     }
 }
